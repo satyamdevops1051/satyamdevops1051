@@ -95,7 +95,7 @@ Experience in automating Azure infrastructure deployment using Terraform followi
 Understanding of containerization and orchestration concepts using Docker and Kubernetes. Experience with creating Docker images, writing Dockerfiles, managing containers, and maintaining consistent application environments. Knowledge of Kubernetes objects including Pods, Deployments, Services, Namespaces, and container lifecycle management for deploying and managing containerized applications.
 
 ### 🐧 Linux & PowerShell (System Administration & Automation)
-Using Linux and PowerShell for day-to-day cloud administration, system management, troubleshooting, scripting, and automation tasks. Familiar with Linux file management, user management, permissions, package management, and executing administrative commands for cloud environments.
+Using Linux and PowerShell for day-to-day cloud administration, basic system operations, scripting, and automation tasks.
 
 ### 🔄 CI/CD & DevOps Automation
 Understanding of CI/CD concepts and automation workflows to improve software delivery processes. Familiar with GitHub Actions and Azure DevOps Pipelines for automating build, testing, and deployment workflows while following DevOps best practices.
