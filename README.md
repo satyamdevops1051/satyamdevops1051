@@ -1,173 +1,154 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=SATYAM%20MAURYA&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=DevOps%20Engineer%20•%20Cloud%20%26%20Infrastructure%20Automation&descAlignY=55&descSize=20" width="100%"/>
+# 👋 Hi, I'm Satyam Maurya
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile;DevOps+Engineer;Microsoft+Azure+%7C+Terraform;Infrastructure+as+Code+(IaC);Cloud+Infrastructure+Automation" />
 
-<a href="https://linkedin.com/in/satyammaurya"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:satyamdevops1051@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
-<a href="https://github.com/satyamdevops1051"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
-<img src="https://komarev.com/ghpvc/?username=satyamdevops1051&label=Profile+Views&color=6a11cb&style=flat-square"/>
+<p>
 
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=6A11CB&center=true&vCenter=true&width=700&lines=Automating+Cloud+Infrastructure+with+Terraform+%E2%98%81%EF%B8%8F;Building+Scalable+Systems+with+Docker+%2B+Kubernetes+%F0%9F%90%B3;Shipping+Faster+with+CI%2FCD+Pipelines+%F0%9F%9A%80;IaC+%7C+DevSecOps+%7C+Cloud+Automation" />
-
-</div>
-
-<br/>
-
-<table width="100%">
-<tr>
-<td width="60%" valign="top">
-
-### 👋 About Me
-
-I'm a **DevOps Engineer** focused on turning manual cloud operations into repeatable, version-controlled automation. My day-to-day revolves around **Microsoft Azure**, **Terraform**, and container orchestration with **Docker & Kubernetes** — with security and cost baked into the pipeline from day one.
-
-```
-🔭  Currently building     → Azure infra automation with Terraform
-🌱  Currently sharpening   → Advanced Kubernetes & DevSecOps
-🛡️  Security-first mindset → tfsec · TFLint · Gitleaks
-💰  Cost-aware IaC         → Infracost estimates before every deploy
-📍  Based in               → Lucknow, India
-```
-
-</td>
-<td width="40%" valign="top">
-
-### ⚡ Quick Facts
-
-| | |
-|---|---|
-| 🎯 Role | DevOps Engineer |
-| ☁️ Cloud | Microsoft Azure |
-| 🏗️ IaC | Terraform |
-| 📦 Containers | Docker · Kubernetes |
-| 🔁 CI/CD | GitHub Actions · Azure DevOps |
-| 🐧 OS | Linux |
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-## 🧰 Tech Stack
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=azure,terraform,docker,kubernetes,linux,git,github,githubactions,bash,vscode,py&theme=dark&perline=11" />
-
-</div>
-
-<div align="center">
-
-| Category | Stack |
-|---|---|
-| **Cloud & Networking** | ![Azure](https://img.shields.io/badge/-Azure-0089D6?style=flat-square&logo=microsoftazure&logoColor=white) ![VNet](https://img.shields.io/badge/-VNets%20%26%20Subnets-0078D4?style=flat-square) ![NSG](https://img.shields.io/badge/-NSG%20Rules-0078D4?style=flat-square) |
-| **Infrastructure as Code** | ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) ![tfsec](https://img.shields.io/badge/-tfsec-1F1F1F?style=flat-square) ![Infracost](https://img.shields.io/badge/-Infracost-00B67A?style=flat-square) |
-| **Containers & Orchestration** | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white) |
-| **CI/CD** | ![GH Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![Azure Pipelines](https://img.shields.io/badge/-Azure%20Pipelines-2560E0?style=flat-square&logo=azurepipelines&logoColor=white) |
-| **Version Control & OS** | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
-
-</div>
-
-<br/>
-
-## 🚀 Featured Project
-
-<div align="center">
-
-<table>
-<tr>
-<td>
-
-### End-to-End Azure DevOps Infrastructure Automation
-**Terraform · Docker · Kubernetes · GitHub Actions · Azure DevOps**
-
-Reusable Terraform modules provisioning Resource Groups, VNets, Subnets, NSGs, VMs, Storage Accounts, Load Balancers & App Gateways — with remote state, `tfsec`/`TFLint`/`Gitleaks` security scanning, and `Infracost` cost previews. Deployments are containerized with Docker and orchestrated on Kubernetes, all wired into GitHub Actions + Azure DevOps pipelines.
-
-`Terraform` `Azure` `Docker` `Kubernetes` `IaC` `CI/CD` `DevSecOps`
-
-</td>
-</tr>
-</table>
-
-<a href="https://github.com/satyamdevops1051">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=satyamdevops1051&repo=azure-devops-infra-automation&theme=radical&hide_border=true" />
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-</div>
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<br/>
+<a href="https://github.com/satyamdevops1051">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-## 📊 GitHub Analytics
+</p>
 
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=satyamdevops1051&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=satyamdevops1051&theme=radical&hide_border=true" />
-
-<br/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyamdevops1051&layout=compact&theme=radical&hide_border=true" />
-<img width="49%" src="https://github-profile-trophy.vercel.app/?username=satyamdevops1051&theme=radical&no-frame=true&row=2&column=3&margin-w=8&margin-h=8" />
+<img src="https://komarev.com/ghpvc/?username=satyamdevops1051&label=Profile%20Views&style=for-the-badge&color=0A66C2"/>
 
 </div>
 
-## 📈 Contribution Activity
+---
 
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=satyamdevops1051&theme=redical&hide_border=true&area=true" width="100%"/>
-</div>
+## 👨‍💻 About Me
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/satyamdevops1051/satyamdevops1051/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</div>
+Hi, I'm **Satyam Maurya** — a **DevOps Engineer focused on cloud infrastructure, automation, and building scalable solutions using modern DevOps practices.**
 
-<br/>
+I specialize in **Cloud Infrastructure, Infrastructure as Code (IaC), and DevOps automation** with hands-on experience in **Microsoft Azure, Terraform, Linux, Git/GitHub, Docker, and Kubernetes**.
 
-<div align="center">
+My focus is on designing cloud environments that are **secure, scalable, and efficient** by implementing automation-driven approaches and industry best practices.
 
-### 💬 *"Infrastructure should be code, deployments should be automatic, and downtime should be a rumor."*
+## 🔧 What I Build & Automate
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" width="100%"/>
+- ☁️ **Cloud Infrastructure:** Designing and managing Azure resources including Virtual Machines, VNets, Subnets, Storage Accounts, Resource Groups, and NSGs.
 
-</div>
+- 🏗️ **Infrastructure as Code:** Automating infrastructure provisioning using Terraform with Modules, Remote State, Variables, Outputs, and reusable configurations.
 
-<!--
-SETUP NOTES (delete once done):
+- 🐳 **Containers & Orchestration:** Working with Docker and Kubernetes concepts for containerized application deployment and management.
 
-1. Repo name must be EXACTLY your username: satyamdevops1051 (this is what makes it a special profile README).
-2. README.md goes in repo root, repo must be Public.
-3. Colors currently use theme "radical" across all stat cards for visual consistency.
-   Other good theme options to try (just change ?theme=... in each URL): tokyonight, dracula, gruvbox, github_dark, nord, onedark.
-4. Replace "azure-devops-infra-automation" with your actual pinned repo name.
-5. Snake animation setup — create .github/workflows/snake.yml with:
+- 🔄 **Automation & CI/CD:** Implementing automation workflows and exploring CI/CD practices to improve deployment efficiency.
 
-   name: Generate Snake
-   on:
-     schedule:
-       - cron: "0 0 * * *"
-     workflow_dispatch:
-     push:
-       branches: [ main ]
-   jobs:
-     generate:
-       permissions:
-         contents: write
-       runs-on: ubuntu-latest
-       steps:
-         - uses: Platane/snk@v3
-           with:
-             github_user_name: satyamdevops1051
-             outputs: |
-               dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-         - uses: peaceiris/actions-gh-pages@v3
-           with:
-             github_token: ${{ secrets.GITHUB_TOKEN }}
-             publish_branch: output
-             publish_dir: ./dist
-             force_orphan: true
--->
+- 🐧 **System Administration:** Using Linux and PowerShell for cloud administration, troubleshooting, scripting, and automation tasks.
+
+I focus on creating **reliable, automated, and scalable infrastructure** while continuously improving my skills in cloud technologies, platform engineering, and DevOps practices.
+
+🚀 **Automate. Optimize. Scale.**
+
+---
+
+## 🚀 Core Expertise
+
+- ☁️ **Cloud Infrastructure (Microsoft Azure)**  
+  Designing and managing Azure cloud resources including Virtual Machines, Virtual Networks, Subnets, Storage Accounts, Resource Groups, and Network Security Groups.
+
+- 🏗️ **Infrastructure as Code (Terraform)**  
+  Automating cloud infrastructure using Terraform with hands-on experience in Modules, Remote State Management, Variables, Outputs, and dynamic resource provisioning using `for_each`.
+
+- 🌐 **Azure Networking**  
+  Understanding VNet architecture, subnet segmentation, NSG rules, public/private connectivity, and secure cloud network design.
+
+- 🔄 **Git & GitHub**  
+  Managing source code and infrastructure repositories using Git version control, branching, commits, and collaboration workflows.
+
+- ⚙️ **DevOps Practices**  
+  Implementing automation-driven approaches for cloud infrastructure management, deployment workflows, and operational efficiency.
+
+---
+
+# 🛠️ Technical Expertise
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=azure" />
+<img src="https://skillicons.dev/icons?i=terraform" />
+<img src="https://skillicons.dev/icons?i=docker" />
+<img src="https://skillicons.dev/icons?i=kubernetes" />
+<img src="https://skillicons.dev/icons?i=linux" />
+<img src="https://skillicons.dev/icons?i=powershell" />
+<img src="https://skillicons.dev/icons?i=git" />
+<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=githubactions" />
+<img src="https://skillicons.dev/icons?i=vscode" />
+
+</p>
+
+---
+
+### ☁️ Microsoft Azure (Cloud Infrastructure)
+Hands-on experience with Microsoft Azure cloud services for designing, provisioning, and managing scalable cloud infrastructure. Worked with Azure resources including Resource Groups, Virtual Machines, Virtual Networks (VNets), Subnets, Storage Accounts, and Network Security Groups (NSGs). Understanding of cloud networking concepts, secure infrastructure design, and Azure resource management.
+
+### 🏗️ Terraform (Infrastructure as Code - IaC)
+Experience in automating Azure infrastructure deployment using Terraform following Infrastructure as Code (IaC) practices. Worked with Terraform Modules, Remote State Management using Azure Storage Backend, Variables, Outputs, Data Sources, and dynamic resource provisioning using `for_each` and nested maps.
+
+### 🐳 Docker & ☸️ Kubernetes (Containerization & Orchestration)
+Understanding of containerization and orchestration concepts using Docker and Kubernetes. Experience with creating Docker images, writing Dockerfiles, managing containers, and maintaining consistent application environments. Knowledge of Kubernetes objects including Pods, Deployments, Services, Namespaces, and container lifecycle management for deploying and managing containerized applications.
+
+### 🐧 Linux & PowerShell (System Administration & Automation)
+Using Linux and PowerShell for day-to-day cloud administration, basic system operations, scripting, and automation tasks.
+
+### 🔄 CI/CD & DevOps Automation
+Understanding of CI/CD concepts and automation workflows to improve software delivery processes. Familiar with GitHub Actions and Azure DevOps Pipelines for automating build, testing, and deployment workflows while following DevOps best practices.
+
+### 🔧 Git & GitHub (Version Control)
+Experience using Git and GitHub for source code management, repository handling, branching strategies, commits, pull requests, and maintaining Infrastructure as Code repositories with proper version control practices.
+
+### ⚙️ Cloud & DevOps Practices
+Knowledge of DevOps methodologies including automation, continuous improvement, infrastructure management, collaboration, and implementing reliable cloud-based solutions using modern DevOps tools and practices.
+
+---
+
+## 📚 Currently Exploring
+
+Continuously expanding my Cloud and DevOps knowledge by exploring emerging technologies and practices that shape the future of cloud infrastructure and platform engineering:
+
+☁️ **AWS & Google Cloud Platform (GCP)** — Building multi-cloud fundamentals and understanding core cloud services across different platforms.
+
+🤖 **AIOps & Intelligent Cloud Operations** — Exploring how Artificial Intelligence and automation can improve infrastructure monitoring, troubleshooting, and operational efficiency.
+
+🧠 **MLOps Fundamentals** — Learning how machine learning models are deployed, managed, and integrated into modern cloud environments.
+
+🔗 **Platform Engineering** — Understanding modern approaches for building scalable internal developer platforms and improving developer experience.
+
+🔐 **Cloud Security & DevSecOps** — Exploring security best practices, identity management, compliance, and integrating security into DevOps workflows.
+
+📊 **Observability & Monitoring** — Learning modern monitoring practices using metrics, logs, and tracing to improve system reliability.
+
+## 🤝 Connect With Me
+
+💼 **LinkedIn:** linkedin.com/in/satyammaurya
+
+🐙 **GitHub:** https://github.com/satyamdevops1051
+
+📧 **Email:** satyamdevops1051@gmail.com
+
+
+                     
+                      🚀 "Automate Workflows. Optimize Infrastructure. Empower Continuous Innovation." ⚙️
+
+
+
+
+<p align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=satyamdevops1051&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyamdevops1051&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
