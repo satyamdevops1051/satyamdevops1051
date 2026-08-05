@@ -108,19 +108,21 @@ Knowledge of DevOps methodologies including automation, continuous improvement, 
 
 ---
 
-# 📂 Featured Projects
+## 📚 Currently Exploring
 
-⭐ Azure Landing Zone
+Continuously expanding my Cloud and DevOps knowledge by exploring emerging technologies and practices that shape the future of cloud infrastructure and platform engineering:
 
-⭐ Terraform Modules
+☁️ **AWS & Google Cloud Platform (GCP)** — Building multi-cloud fundamentals and understanding core cloud services across different platforms.
 
-⭐ Azure Networking
+🤖 **AIOps & Intelligent Cloud Operations** — Exploring how Artificial Intelligence and automation can improve infrastructure monitoring, troubleshooting, and operational efficiency.
 
-⭐ Azure Virtual Machine Deployment
+🧠 **MLOps Fundamentals** — Learning how machine learning models are deployed, managed, and integrated into modern cloud environments.
 
-⭐ Smart Traffic Management Platform
+🔗 **Platform Engineering** — Understanding modern approaches for building scalable internal developer platforms and improving developer experience.
 
----
+🔐 **Cloud Security & DevSecOps** — Exploring security best practices, identity management, compliance, and integrating security into DevOps workflows.
+
+📊 **Observability & Monitoring** — Learning modern monitoring practices using metrics, logs, and tracing to improve system reliability.
 
 # 📈 GitHub Statistics
 
