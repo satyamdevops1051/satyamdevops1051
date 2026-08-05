@@ -4,6 +4,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile;DevOps+Engineer;Microsoft+Azure+%7C+Terraform;Infrastructure+as+Code+(IaC);Cloud+Infrastructure+Automation" />
 
+<div align="center">
+
 <p>
 <a href="https://linkedin.com/in/satyammaurya">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
