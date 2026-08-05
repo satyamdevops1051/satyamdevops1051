@@ -60,9 +60,6 @@ I believe automation is the foundation of modern infrastructure, and I'm continu
 - 🌐 **Azure Networking**  
   Understanding of VNet architecture, subnet segmentation, NSG rules, public/private connectivity, and secure cloud network design.
 
-- 🐧 **Linux Administration**  
-  Working knowledge of Linux system administration including package management, user management, permissions, file operations, and command-line troubleshooting.
-
 - 🔄 **Git & GitHub**  
   Managing source code and infrastructure repositories using Git version control, branching, commits, and collaboration workflows.
 
@@ -74,18 +71,33 @@ I believe automation is the foundation of modern infrastructure, and I'm continu
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=azure" />
-
 <img src="https://skillicons.dev/icons?i=terraform" />
-
+<img src="https://skillicons.dev/icons?i=docker" />
+<img src="https://skillicons.dev/icons?i=kubernetes" />
 <img src="https://skillicons.dev/icons?i=linux" />
-
 <img src="https://skillicons.dev/icons?i=git" />
-
 <img src="https://skillicons.dev/icons?i=github" />
-
 <img src="https://skillicons.dev/icons?i=vscode" />
 
 </p>
+
+### ☁️ Microsoft Azure
+Hands-on experience with Azure cloud services including Virtual Machines, Virtual Networks, Subnets, Storage Accounts, Resource Groups, and Network Security Groups for building and managing cloud infrastructure.
+
+### 🏗️ Terraform (Infrastructure as Code)
+Automating Azure infrastructure provisioning using Terraform with experience in Modules, Remote State Management, Variables, Outputs, and dynamic resource creation using `for_each`.
+
+### 🐳 Docker
+Understanding of containerization concepts, creating and managing Docker images and containers, writing Dockerfiles, and packaging applications for consistent deployment environments.
+
+### ☸️ Kubernetes
+Knowledge of container orchestration concepts including Pods, Deployments, Services, Namespaces, and managing containerized applications in Kubernetes environments.
+
+### 🐧 Linux Administration
+Working knowledge of Linux system administration including file management, user management, permissions, package management, and command-line operations.
+
+### 🔄 Git & GitHub
+Experience with Git version control, repository management, branching, commits, and collaboration workflows using GitHub.
 
 ---
 
