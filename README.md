@@ -124,7 +124,19 @@ Continuously expanding my Cloud and DevOps knowledge by exploring emerging techn
 
 📊 **Observability & Monitoring** — Learning modern monitoring practices using metrics, logs, and tracing to improve system reliability.
 
-# 📈 GitHub Statistics
+## 🤝 Connect With Me
+
+💼 **LinkedIn:** linkedin.com/in/satyammaurya
+
+🐙 **GitHub:** https://github.com/satyamdevops1051
+
+📧 **Email:** satyamdevops1051@gmail.com
+
+
+                      🚀 "Automate Workflows. Optimize Infrastructure. Empower Continuous Innovation." ⚙️
+
+
+
 
 <p align="center">
 
