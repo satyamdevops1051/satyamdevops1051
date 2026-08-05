@@ -35,7 +35,7 @@ I specialize in **Cloud Infrastructure, Infrastructure as Code (IaC), and DevOps
 
 My focus is on designing cloud environments that are **secure, scalable, and efficient** by implementing automation-driven approaches and industry best practices.
 
-### 🚀 What I Work With:
+## 🔧 What I Build & Automate
 - ☁️ **Cloud Infrastructure:** Designing and managing Azure resources including Virtual Machines, VNets, Subnets, Storage Accounts, Resource Groups, and NSGs.
 - 🏗️ **Infrastructure as Code:** Automating infrastructure provisioning using Terraform with Modules, Remote State, Variables, Outputs, and reusable configurations.
 - 🐳 **Containers & Orchestration:** Working with Docker and Kubernetes concepts for containerized application deployment and management.
