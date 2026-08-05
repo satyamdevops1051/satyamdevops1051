@@ -6,32 +6,21 @@
 
 <p>
 
-<div align="center">
-
 <p>
-<div align="center">
-
-<p>
-
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://linkedin.com/in/satyammaurya">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:satyamdevops1051@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 <a href="https://github.com/satyamdevops1051">
 <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=satyamdevops1051&label=Profile%20Views&style=for-the-badge&color=0A66C2"/>
 
 </div>
-
----
 
 ## 👨‍💻 About Me
 
