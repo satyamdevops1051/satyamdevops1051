@@ -4,50 +4,47 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile;DevOps+Engineer;Microsoft+Azure+%7C+Terraform;Infrastructure+as+Code+(IaC);Cloud+Infrastructure+Automation" />
 
-<p>
+<p align="center">
 
 <a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/satyamdevops1051">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=satyamdevops1051&style=for-the-badge&color=0A66C2"/>
-
-</div>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=satyamdevops1051&label=Profile%20Views&style=for-the-badge&color=0A66C2"/>
+</p>
 
 ---
 
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-<img align="right" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+Hi, I'm **Satyam Maurya** — a **DevOps Engineer focused on cloud infrastructure, automation, and building scalable solutions using modern DevOps practices.**
 
-Hi there! 👋 I'm **Satyam Maurya**, a **DevOps Engineer** passionate about Cloud Infrastructure, Automation, and Infrastructure as Code.
+I specialize in **Cloud Infrastructure, Infrastructure as Code (IaC), and DevOps automation** with hands-on experience in **Microsoft Azure, Terraform, Linux, Git/GitHub, Docker, and Kubernetes**.
 
-With hands-on experience in **Microsoft Azure**, **Terraform**, **Linux**, **Git**, and **GitHub**, I enjoy designing and automating secure, scalable, and reliable cloud environments.
+My focus is on designing cloud environments that are **secure, scalable, and efficient** by implementing automation-driven approaches and industry best practices.
 
-💠 My experience includes:
+### 🚀 What I Work With:
+- ☁️ **Cloud Infrastructure:** Designing and managing Azure resources including Virtual Machines, VNets, Subnets, Storage Accounts, Resource Groups, and NSGs.
+- 🏗️ **Infrastructure as Code:** Automating infrastructure provisioning using Terraform with Modules, Remote State, Variables, Outputs, and reusable configurations.
+- 🐳 **Containers & Orchestration:** Working with Docker and Kubernetes concepts for containerized application deployment and management.
+- 🔄 **Automation & CI/CD:** Implementing automation workflows and exploring CI/CD practices to improve deployment efficiency.
+- 🐧 **System Administration:** Using Linux and PowerShell for cloud administration, troubleshooting, scripting, and automation tasks.
 
-✔ Deploying Azure cloud infrastructure
+I focus on creating **reliable, automated, and scalable infrastructure** while continuously improving my skills in cloud technologies, platform engineering, and DevOps practices.
 
-✔ Building reusable Terraform modules
-
-✔ Managing Remote State & Infrastructure as Code
-
-✔ Configuring Azure Networking (VNets, Subnets & NSGs)
-
-✔ Linux Administration & Automation
-
-✔ Version Control using Git & GitHub
-
-I believe automation is the foundation of modern infrastructure, and I'm continuously improving my skills by building real-world DevOps projects that follow industry best practices.
-
-> **"Automate Everything. Build Once. Deploy Anywhere."** 🚀
+🚀 **Automate. Optimize. Scale.**
 
 ## 🚀 Core Expertise
 
