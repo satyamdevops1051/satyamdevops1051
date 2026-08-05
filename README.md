@@ -75,6 +75,7 @@ I believe automation is the foundation of modern infrastructure, and I'm continu
 <img src="https://skillicons.dev/icons?i=docker" />
 <img src="https://skillicons.dev/icons?i=kubernetes" />
 <img src="https://skillicons.dev/icons?i=linux" />
+<img src="https://skillicons.dev/icons?i=powershell" />
 <img src="https://skillicons.dev/icons?i=git" />
 <img src="https://skillicons.dev/icons?i=github" />
 <img src="https://skillicons.dev/icons?i=githubactions" />
@@ -84,26 +85,26 @@ I believe automation is the foundation of modern infrastructure, and I'm continu
 
 ---
 
-### ☁️ Microsoft Azure
-Hands-on experience in managing Azure cloud infrastructure including Virtual Machines, Resource Groups, Virtual Networks, Subnets, Storage Accounts, and Network Security Groups.
+### ☁️ Microsoft Azure (Cloud Infrastructure)
+Hands-on experience with Microsoft Azure cloud services for designing, provisioning, and managing scalable cloud infrastructure. Worked with Azure resources including Resource Groups, Virtual Machines, Virtual Networks (VNets), Subnets, Storage Accounts, and Network Security Groups (NSGs). Understanding of cloud networking concepts, secure infrastructure design, and Azure resource management.
 
-### 🏗️ Terraform (Infrastructure as Code)
-Experience with Infrastructure as Code (IaC) using Terraform for automated cloud provisioning, including Modules, Remote State Management, Variables, Outputs, and dynamic resource creation using `for_each`.
+### 🏗️ Terraform (Infrastructure as Code - IaC)
+Experience in automating Azure infrastructure deployment using Terraform following Infrastructure as Code (IaC) practices. Worked with Terraform Modules, Remote State Management using Azure Storage Backend, Variables, Outputs, Data Sources, and dynamic resource provisioning using `for_each` and nested maps.
 
-### 🐳 Docker
-Knowledge of containerization concepts, creating Docker images, managing containers, writing Dockerfiles, and packaging applications for consistent deployment environments.
+### 🐳 Docker & ☸️ Kubernetes (Containerization & Orchestration)
+Understanding of containerization and orchestration concepts using Docker and Kubernetes. Experience with creating Docker images, writing Dockerfiles, managing containers, and maintaining consistent application environments. Knowledge of Kubernetes objects including Pods, Deployments, Services, Namespaces, and container lifecycle management for deploying and managing containerized applications.
 
-### ☸️ Kubernetes
-Understanding of container orchestration concepts including Pods, Deployments, Services, Namespaces, and managing containerized applications in Kubernetes clusters.
+### 🐧 Linux & PowerShell (System Administration & Automation)
+Using Linux and PowerShell for day-to-day cloud administration, system management, troubleshooting, scripting, and automation tasks. Familiar with Linux file management, user management, permissions, package management, and executing administrative commands for cloud environments.
 
-### 🐧 Linux & PowerShell
-Using Linux and PowerShell for day-to-day cloud administration, system operations, scripting, troubleshooting, and automation tasks.
+### 🔄 CI/CD & DevOps Automation
+Understanding of CI/CD concepts and automation workflows to improve software delivery processes. Familiar with GitHub Actions and Azure DevOps Pipelines for automating build, testing, and deployment workflows while following DevOps best practices.
 
-### 🔄 CI/CD & Automation
-Understanding of CI/CD pipelines and automation workflows using GitHub Actions and Azure DevOps Pipelines to support continuous integration and continuous delivery practices.
+### 🔧 Git & GitHub (Version Control)
+Experience using Git and GitHub for source code management, repository handling, branching strategies, commits, pull requests, and maintaining Infrastructure as Code repositories with proper version control practices.
 
-### 🔧 Git & GitHub
-Experience with Git version control and GitHub repository management including branching, commits, collaboration, and infrastructure code management.
+### ⚙️ Cloud & DevOps Practices
+Knowledge of DevOps methodologies including automation, continuous improvement, infrastructure management, collaboration, and implementing reliable cloud-based solutions using modern DevOps tools and practices.
 
 ---
 
