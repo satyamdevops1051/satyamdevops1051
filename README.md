@@ -20,7 +20,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=satyamdevops1051&label=Profile%20Views&style=for-the-badge&color=0A66C2"/>
 
-</div>
+
 
 
 ## 👨‍💻 About Me
