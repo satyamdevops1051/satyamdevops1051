@@ -139,15 +139,3 @@ Learning monitoring, logging, and system reliability practices.
 
 ---
 
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=satyamdevops1051&show_icons=true&theme=transparent" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=satyamdevops1051&theme=transparent" />
-
-</div>
-
----
-
