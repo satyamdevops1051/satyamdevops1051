@@ -2,8 +2,6 @@
 
 # 👋 Hi, I'm Satyam Maurya
 
-### DevOps Engineer | Microsoft Azure | Terraform | Linux | Git | GitHub
-
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile;DevOps+Engineer;Microsoft+Azure+%7C+Terraform;Infrastructure+as+Code+(IaC);Cloud+Infrastructure+Automation" />
 
 <p>
