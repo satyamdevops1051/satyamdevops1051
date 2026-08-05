@@ -1,10 +1,8 @@
 <div align="center">
 
-# 👋 Hi, I'm Satyam Maurya
+#  Hi, I'm Satyam Maurya
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile;DevOps+Engineer;Microsoft+Azure+%7C+Terraform;Infrastructure+as+Code+(IaC);Cloud+Infrastructure+Automation" />
-
-<p>
 
 <p>
 <a href="https://linkedin.com/in/satyammaurya">
@@ -31,7 +29,7 @@ I specialize in **Cloud Infrastructure, Infrastructure as Code (IaC), and DevOps
 
 My focus is on designing cloud environments that are **secure, scalable, and efficient** by implementing automation-driven approaches and industry best practices.
 
-## 🔧 What I Build & Automate
+## 🔄 What I Build & Automate
 
 - ☁️ **Cloud Infrastructure:** Designing and managing Azure resources including Virtual Machines, VNets, Subnets, Storage Accounts, Resource Groups, and NSGs.
 
