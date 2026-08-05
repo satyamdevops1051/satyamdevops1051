@@ -69,7 +69,6 @@ I focus on creating **reliable, automated, and scalable infrastructure** while c
 
 # 🛠️ Technical Expertise
 
-<p align="center">
 
 <img src="https://skillicons.dev/icons?i=azure" />
 <img src="https://skillicons.dev/icons?i=terraform" />
