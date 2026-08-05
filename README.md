@@ -24,13 +24,31 @@
 
 # 💻 About Me
 
-Passionate DevOps Engineer with hands-on experience in Microsoft Azure and Terraform.
+## 🚀 About Me
 
-I enjoy designing, provisioning and automating cloud infrastructure using Infrastructure as Code (IaC).
+<img align="right" width="350" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
-I am passionate about creating secure, scalable and reliable cloud environments while following DevOps best practices.
+Hi there! 👋 I'm **Satyam Maurya**, a **DevOps Engineer** passionate about Cloud Infrastructure, Automation, and Infrastructure as Code.
 
----
+With hands-on experience in **Microsoft Azure**, **Terraform**, **Linux**, **Git**, and **GitHub**, I enjoy designing and automating secure, scalable, and reliable cloud environments.
+
+💠 My experience includes:
+
+✔ Deploying Azure cloud infrastructure
+
+✔ Building reusable Terraform modules
+
+✔ Managing Remote State & Infrastructure as Code
+
+✔ Configuring Azure Networking (VNets, Subnets & NSGs)
+
+✔ Linux Administration & Automation
+
+✔ Version Control using Git & GitHub
+
+I believe automation is the foundation of modern infrastructure, and I'm continuously improving my skills by building real-world DevOps projects that follow industry best practices.
+
+> **"Automate Everything. Build Once. Deploy Anywhere."** 🚀
 
 # 🚀 Core Skills
 
