@@ -69,21 +69,21 @@ I believe automation is the foundation of modern infrastructure, and I'm continu
 - ⚙️ **DevOps Practices**  
   Implementing automation-driven approaches for cloud infrastructure management, deployment workflows, and operational efficiency.
 
-# 🛠 Tech Stack
+# 🛠️ Technical Expertise
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=azure"/>
+<img src="https://skillicons.dev/icons?i=azure" />
 
-<img src="https://skillicons.dev/icons?i=terraform"/>
+<img src="https://skillicons.dev/icons?i=terraform" />
 
-<img src="https://skillicons.dev/icons?i=linux"/>
+<img src="https://skillicons.dev/icons?i=linux" />
 
-<img src="https://skillicons.dev/icons?i=git"/>
+<img src="https://skillicons.dev/icons?i=git" />
 
-<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://skillicons.dev/icons?i=github" />
 
-<img src="https://skillicons.dev/icons?i=vscode"/>
+<img src="https://skillicons.dev/icons?i=vscode" />
 
 </p>
 
