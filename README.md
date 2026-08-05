@@ -87,3 +87,84 @@ I focus on creating **reliable, automated, and scalable infrastructure** while c
 <img src="https://skillicons.dev/icons?i=vscode" />
 
 </div>
+
+# 🛠️ Technical Expertise
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=azure" />
+<img src="https://skillicons.dev/icons?i=terraform" />
+<img src="https://skillicons.dev/icons?i=docker" />
+<img src="https://skillicons.dev/icons?i=kubernetes" />
+<img src="https://skillicons.dev/icons?i=linux" />
+<img src="https://skillicons.dev/icons?i=powershell" />
+<img src="https://skillicons.dev/icons?i=git" />
+<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=githubactions" />
+<img src="https://skillicons.dev/icons?i=vscode" />
+
+</p>
+
+---
+
+### ☁️ Microsoft Azure (Cloud Infrastructure)
+Hands-on experience with Microsoft Azure cloud services for designing, provisioning, and managing scalable cloud infrastructure. Worked with Azure resources including Resource Groups, Virtual Machines, Virtual Networks (VNets), Subnets, Storage Accounts, and Network Security Groups (NSGs). Understanding of cloud networking concepts, secure infrastructure design, and Azure resource management.
+
+### 🏗️ Terraform (Infrastructure as Code - IaC)
+Experience in automating Azure infrastructure deployment using Terraform following Infrastructure as Code (IaC) practices. Worked with Terraform Modules, Remote State Management using Azure Storage Backend, Variables, Outputs, Data Sources, and dynamic resource provisioning using `for_each` and nested maps.
+
+### 🐳 Docker & ☸️ Kubernetes (Containerization & Orchestration)
+Understanding of containerization and orchestration concepts using Docker and Kubernetes. Experience with creating Docker images, writing Dockerfiles, managing containers, and maintaining consistent application environments. Knowledge of Kubernetes objects including Pods, Deployments, Services, Namespaces, and container lifecycle management for deploying and managing containerized applications.
+
+### 🐧 Linux & PowerShell (System Administration & Automation)
+Using Linux and PowerShell for day-to-day cloud administration, basic system operations, scripting, and automation tasks.
+
+### 🔄 CI/CD & DevOps Automation
+Understanding of CI/CD concepts and automation workflows to improve software delivery processes. Familiar with GitHub Actions and Azure DevOps Pipelines for automating build, testing, and deployment workflows while following DevOps best practices.
+
+### 🔧 Git & GitHub (Version Control)
+Experience using Git and GitHub for source code management, repository handling, branching strategies, commits, pull requests, and maintaining Infrastructure as Code repositories with proper version control practices.
+
+### ⚙️ Cloud & DevOps Practices
+Knowledge of DevOps methodologies including automation, continuous improvement, infrastructure management, collaboration, and implementing reliable cloud-based solutions using modern DevOps tools and practices.
+
+---
+
+## 📚 Currently Exploring
+
+Continuously expanding my Cloud and DevOps knowledge by exploring emerging technologies and practices that shape the future of cloud infrastructure and platform engineering:
+
+☁️ **AWS & Google Cloud Platform (GCP)** — Building multi-cloud fundamentals and understanding core cloud services across different platforms.
+
+🤖 **AIOps & Intelligent Cloud Operations** — Exploring how Artificial Intelligence and automation can improve infrastructure monitoring, troubleshooting, and operational efficiency.
+
+🧠 **MLOps Fundamentals** — Learning how machine learning models are deployed, managed, and integrated into modern cloud environments.
+
+🔗 **Platform Engineering** — Understanding modern approaches for building scalable internal developer platforms and improving developer experience.
+
+🔐 **Cloud Security & DevSecOps** — Exploring security best practices, identity management, compliance, and integrating security into DevOps workflows.
+
+📊 **Observability & Monitoring** — Learning modern monitoring practices using metrics, logs, and tracing to improve system reliability.
+
+## 🤝 Connect With Me
+
+💼 **LinkedIn:** linkedin.com/in/satyammaurya
+
+🐙 **GitHub:** https://github.com/satyamdevops1051
+
+📧 **Email:** satyamdevops1051@gmail.com
+
+
+                      🚀 "Automate Workflows. Optimize Infrastructure. Empower Continuous Innovation." ⚙️
+
+
+
+
+<p align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=satyamdevops1051&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyamdevops1051&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
