@@ -77,27 +77,33 @@ I believe automation is the foundation of modern infrastructure, and I'm continu
 <img src="https://skillicons.dev/icons?i=linux" />
 <img src="https://skillicons.dev/icons?i=git" />
 <img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=githubactions" />
 <img src="https://skillicons.dev/icons?i=vscode" />
 
 </p>
 
+---
+
 ### ☁️ Microsoft Azure
-Hands-on experience with Azure cloud services including Virtual Machines, Virtual Networks, Subnets, Storage Accounts, Resource Groups, and Network Security Groups for building and managing cloud infrastructure.
+Hands-on experience in managing Azure cloud infrastructure including Virtual Machines, Resource Groups, Virtual Networks, Subnets, Storage Accounts, and Network Security Groups.
 
 ### 🏗️ Terraform (Infrastructure as Code)
-Automating Azure infrastructure provisioning using Terraform with experience in Modules, Remote State Management, Variables, Outputs, and dynamic resource creation using `for_each`.
+Experience with Infrastructure as Code (IaC) using Terraform for automated cloud provisioning, including Modules, Remote State Management, Variables, Outputs, and dynamic resource creation using `for_each`.
 
 ### 🐳 Docker
-Understanding of containerization concepts, creating and managing Docker images and containers, writing Dockerfiles, and packaging applications for consistent deployment environments.
+Knowledge of containerization concepts, creating Docker images, managing containers, writing Dockerfiles, and packaging applications for consistent deployment environments.
 
 ### ☸️ Kubernetes
-Knowledge of container orchestration concepts including Pods, Deployments, Services, Namespaces, and managing containerized applications in Kubernetes environments.
+Understanding of container orchestration concepts including Pods, Deployments, Services, Namespaces, and managing containerized applications in Kubernetes clusters.
 
-### 🐧 Linux Administration
-Working knowledge of Linux system administration including file management, user management, permissions, package management, and command-line operations.
+### 🐧 Linux & PowerShell
+Using Linux and PowerShell for day-to-day cloud administration, system operations, scripting, troubleshooting, and automation tasks.
 
-### 🔄 Git & GitHub
-Experience with Git version control, repository management, branching, commits, and collaboration workflows using GitHub.
+### 🔄 CI/CD & Automation
+Understanding of CI/CD pipelines and automation workflows using GitHub Actions and Azure DevOps Pipelines to support continuous integration and continuous delivery practices.
+
+### 🔧 Git & GitHub
+Experience with Git version control and GitHub repository management including branching, commits, collaboration, and infrastructure code management.
 
 ---
 
