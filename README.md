@@ -49,63 +49,25 @@ I believe automation is the foundation of modern infrastructure, and I'm continu
 
 > **"Automate Everything. Build Once. Deploy Anywhere."** 🚀
 
-# 🚀 Core Skills
+## 🚀 Core Expertise
 
-## ☁ Microsoft Azure
+- ☁️ **Cloud Infrastructure (Microsoft Azure)**  
+  Designing and managing Azure cloud resources including Virtual Machines, Virtual Networks, Subnets, Storage Accounts, Resource Groups, and Network Security Groups.
 
-- Resource Groups
+- 🏗️ **Infrastructure as Code (Terraform)**  
+  Automating cloud infrastructure using Terraform with hands-on experience in Modules, Remote State Management, Variables, Outputs, and dynamic resource provisioning using `for_each`.
 
-- Virtual Machines
+- 🌐 **Azure Networking**  
+  Understanding of VNet architecture, subnet segmentation, NSG rules, public/private connectivity, and secure cloud network design.
 
-- Virtual Networks (VNets)
+- 🐧 **Linux Administration**  
+  Working knowledge of Linux system administration including package management, user management, permissions, file operations, and command-line troubleshooting.
 
-- Subnets
+- 🔄 **Git & GitHub**  
+  Managing source code and infrastructure repositories using Git version control, branching, commits, and collaboration workflows.
 
-- Network Security Groups
-
-- Storage Accounts
-
----
-
-## ⚙ Terraform
-
-- Infrastructure as Code
-
-- Modules
-
-- Variables
-
-- Outputs
-
-- Remote Backend
-
-- for_each
-
-- Nested Maps
-
----
-
-## 🐧 Linux
-
-- User Management
-
-- Package Management
-
-- File Permissions
-
-- Shell Commands
-
-- Process Management
-
----
-
-## 🔄 Version Control
-
-- Git
-
-- GitHub
-
----
+- ⚙️ **DevOps Practices**  
+  Implementing automation-driven approaches for cloud infrastructure management, deployment workflows, and operational efficiency.
 
 # 🛠 Tech Stack
 
