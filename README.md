@@ -113,21 +113,26 @@ Knowledge of DevOps methodologies including automation, continuous improvement, 
 
 ---
 
-## 📚 Currently Exploring
+---
 
-Continuously expanding my Cloud and DevOps knowledge by exploring emerging technologies and practices that shape the future of cloud infrastructure and platform engineering:
+# 📚 Currently Exploring
 
-☁️ **AWS & Google Cloud Platform (GCP)** — Building multi-cloud fundamentals and understanding core cloud services across different platforms.
+☁️ **Multi-Cloud Platforms**  
+Exploring AWS and Google Cloud fundamentals.
 
-🤖 **AIOps & Intelligent Cloud Operations** — Exploring how Artificial Intelligence and automation can improve infrastructure monitoring, troubleshooting, and operational efficiency.
+🤖 **AIOps & MLOps**  
+Learning AI-driven cloud operations and ML deployment concepts.
 
-🧠 **MLOps Fundamentals** — Learning how machine learning models are deployed, managed, and integrated into modern cloud environments.
+🔗 **Platform Engineering**  
+Understanding scalable internal developer platforms.
 
-🔗 **Platform Engineering** — Understanding modern approaches for building scalable internal developer platforms and improving developer experience.
+🔐 **DevSecOps & Cloud Security**  
+Exploring secure cloud infrastructure and automation practices.
 
-🔐 **Cloud Security & DevSecOps** — Exploring security best practices, identity management, compliance, and integrating security into DevOps workflows.
+📊 **Observability**  
+Learning monitoring, logging, and system reliability practices.
 
-📊 **Observability & Monitoring** — Learning modern monitoring practices using metrics, logs, and tracing to improve system reliability.
+---
 
 ## 🤝 Connect With Me
 
