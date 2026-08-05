@@ -71,23 +71,6 @@ I focus on creating **reliable, automated, and scalable infrastructure** while c
 
 ---
 
-## 🛠️ Technical Expertise
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=azure" />
-<img src="https://skillicons.dev/icons?i=terraform" />
-<img src="https://skillicons.dev/icons?i=docker" />
-<img src="https://skillicons.dev/icons?i=kubernetes" />
-<img src="https://skillicons.dev/icons?i=linux" />
-<img src="https://skillicons.dev/icons?i=powershell" />
-<img src="https://skillicons.dev/icons?i=git" />
-<img src="https://skillicons.dev/icons?i=github" />
-<img src="https://skillicons.dev/icons?i=githubactions" />
-<img src="https://skillicons.dev/icons?i=vscode" />
-
-</div>
-
 # 🛠️ Technical Expertise
 
 <p align="center">
@@ -155,6 +138,7 @@ Continuously expanding my Cloud and DevOps knowledge by exploring emerging techn
 📧 **Email:** satyamdevops1051@gmail.com
 
 
+                     
                       🚀 "Automate Workflows. Optimize Infrastructure. Empower Continuous Innovation." ⚙️
 
 
